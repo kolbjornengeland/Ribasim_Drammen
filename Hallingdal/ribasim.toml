@@ -1,0 +1,6 @@
+starttime = 2001-01-01 00:00:00
+endtime = 2010-01-01 00:00:00
+crs = "EPSG:32633"
+input_dir = "."
+results_dir = "results"
+ribasim_version = "2024.11.0"

@@ -1,0 +1,7 @@
+┌ Info: Starting a Ribasim simulation.
+│   cli.ribasim_version = 2024.11.0
+│   starttime = 2001-01-01T00:00:00
+│   endtime = 2010-01-01T00:00:00
+└ @ Ribasim D:\buildAgent\work\ecd2b8f9b25b1609\ribasim\core\src\main.jl:42
+┌ Info: The model finished successfully.
+└ @ Ribasim D:\buildAgent\work\ecd2b8f9b25b1609\ribasim\core\src\main.jl:49
